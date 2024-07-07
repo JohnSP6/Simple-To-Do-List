@@ -1,0 +1,14 @@
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\bin\Debug\net8.0\Simple To-Do List.exe
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\bin\Debug\net8.0\Simple To-Do List.deps.json
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\bin\Debug\net8.0\Simple To-Do List.runtimeconfig.json
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\bin\Debug\net8.0\Simple To-Do List.dll
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\bin\Debug\net8.0\Simple To-Do List.pdb
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.AssemblyInfoInputs.cache
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.AssemblyInfo.cs
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.csproj.CoreCompileInputs.cache
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.dll
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\refint\Simple To-Do List.dll
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.pdb
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.genruntimeconfig.cache
+c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\ref\Simple To-Do List.dll
