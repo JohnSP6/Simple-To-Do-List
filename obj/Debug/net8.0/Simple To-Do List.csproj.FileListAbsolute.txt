@@ -12,3 +12,4 @@ c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\refint\S
 c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.pdb
 c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.genruntimeconfig.cache
 c:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\ref\Simple To-Do List.dll
+C:\Users\Desktop\Desktop\C#_Practice\Simple To-Do List\obj\Debug\net8.0\Simple To-Do List.sourcelink.json
